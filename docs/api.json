@@ -32,6 +32,26 @@
         {
           "name":"Sitio Cubahora",
           "url":"https://www.cubahora.cu/feed"
+        },
+        {
+          "name":"La Jiribilla",
+          "url":"http://lajiribilla.cu/rss"
+        },
+        {
+          "name":"Periódico Guerrillero",
+          "url":"http://www.guerrillero.cu/feed/"
+        },
+        {
+          "name":"Periódico Invasor",
+          "url":"http://www.invasor.cu/es/component/obrss/invasor-rss"
+        },
+        {
+          "name":"Periódico ¡ahora!",
+          "url":"http://www.ahora.cu/es/holguin/?format=feed&type=rss"
+        },
+        {
+          "name":"Periódico Venceremos",
+          "url":"http://www.venceremos.cu/guantanamo-noticias?format=feed&type=rss"
         }
       ]
     }
