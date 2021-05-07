@@ -3,7 +3,7 @@
     {
       "name": "NOTICIAS DE CUBA",
       "description": "Noticias de las principales fuentes nacionales",
-      "image": "https://raw.githubusercontent.com/osmely/feed/main/images/1.png",
+      "image": "https://osmely.github.io/feed/images/1.png",
       "channels": [
         {
           "name": "Sitio Cubadebate",
