@@ -12,24 +12,30 @@
         {
           "name": "Periódico Granma",
           "url": "http://www.granma.cu/feed"
+        },
+        {
+          "name": "Radio Reloj",
+          "url": "https://www.radioreloj.cu/feed/"
+        },
+        {
+          "name": "Radio Reloj",
+          "url":"http://www.caimanbarbudo.cu/feed/"
+        },
+        {
+          "name": "Alma Mater",
+          "url":"http://www.almamater.cu/rss.xml"
+        },
+        {
+          "name":"Periódico Trabajadores",
+          "url":"http://www.trabajadores.cu/feed/"
+        },
+        {
+          "name":"Sitio Cubahora",
+          "url":"https://www.cubahora.cu/feed"
         }
       ]
     },
-    
-    {
-      "name": "NOTICIAS DE RUSIA",
-      "description": "Noticias de las principales fuentes nacionales",
-      "image": "https://osmely.github.io/feed/images/2.png",
-      "channels": [
-        {
-          "name": "Sitio Cubadebate",
-          "url": "http://www.cubadebate.cu/feed"
-        },
-        {
-          "name": "Periódico Granma",
-          "url": "http://www.granma.cu/feed"
-        }
-      ]
-    }
+
+ 
   ]
 }
