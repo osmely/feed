@@ -14,6 +14,22 @@
           "url": "http://www.granma.cu/feed"
         }
       ]
+    },
+    
+    {
+      "name": "NOTICIAS DE RUSIA",
+      "description": "Noticias de las principales fuentes nacionales",
+      "image": "https://osmely.github.io/feed/images/1.png",
+      "channels": [
+        {
+          "name": "Sitio Cubadebate",
+          "url": "http://www.cubadebate.cu/feed"
+        },
+        {
+          "name": "Periódico Granma",
+          "url": "http://www.granma.cu/feed"
+        }
+      ]
     }
   ]
 }
