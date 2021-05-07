@@ -1,8 +1,8 @@
 {
   "categories": [
     {
-      "name": "NOTICIAS DE CUBA",
-      "description": "Noticias de las principales fuentes nacionales",
+      "name": "PRENSA CUBANA",
+      "description": "Noticias de las principales fuentes informativas nacionales",
       "image": "https://osmely.github.io/feed/images/1.png",
       "channels": [
         {
