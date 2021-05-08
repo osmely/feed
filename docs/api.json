@@ -54,6 +54,20 @@
           "url":"http://www.venceremos.cu/guantanamo-noticias?format=feed&type=rss"
         }
       ]
+    },
+
+
+
+    {
+      "name": "CRIPTOMONEDAS COINLIST",
+      "description": "Al día con las noticias desde https://coinlist.me/",
+      "image": "https://osmely.github.io/feed/images/2.png",
+      "channels": [
+        {
+          "name": "Todas las noticias",
+          "url": "https://coinlist.me/es/noticias/feed/"
+        }
+      ]
     }
     
     
