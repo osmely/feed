@@ -61,7 +61,7 @@
     {
       "name": "CRIPTOMONEDAS COINLIST",
       "description": "Al día con las noticias desde https://coinlist.me/",
-      "image": "https://osmely.github.io/feed/images/2.png",
+      "image": "https://osmely.github.io/feed/images/cripto.png",
       "channels": [
         {
           "name": "Todas las noticias",
