@@ -65,83 +65,79 @@
           "url": "https://coinlist.me/es/noticias/feed/"
         },
         {
-          "name": "Todas las noticias",
+          "name": "Análisis",
           "url": "https://coinlist.me/es/noticias/categoria/analisis/feed/"
         },
         {
-          "name": "Todas las noticias",
+          "name": "Negocio",
           "url": "https://coinlist.me/es/noticias/categoria/negocios/feed/"
         },
         {
-          "name": "Todas las noticias",
-          "url": "https://coinlist.me/es/noticias/crimen/feed/"
-        },
-        {
-          "name": "Todas las noticias",
+          "name": "Eventos",
           "url": "https://coinlist.me/es/noticias/categoria/eventos/feed/"
         },
         {
-          "name": "Todas las noticias",
+          "name": "Destacado",
           "url": "https://coinlist.me/es/noticias/categoria/destacado/feed/"
         },
         {
-          "name": "Todas las noticias",
+          "name": "Entrevistas",
           "url": "https://coinlist.me/es/noticias/categoria/entrevistas/feed/"
         },
         {
-          "name": "Todas las noticias",
+          "name": "Mercados",
           "url": "https://coinlist.me/es/noticias/categoria/mercados/feed/"
         },
         {
-          "name": "Todas las noticias",
+          "name": "Opinión",
           "url": "https://coinlist.me/es/noticias/categoria/opinion/feed/"
         },
         {
-          "name": "Todas las noticias",
+          "name": "Política y regulaciones",
           "url": "https://coinlist.me/es/noticias/categoria/politica-y-regulacion/feed/"
         },
         {
-          "name": "Todas las noticias",
+          "name": "Comunicados de prensa",
           "url": "https://coinlist.me/es/noticias/categoria/comunicado-de-prensa/feed/"
         },
         {
-          "name": "Todas las noticias",
+          "name": "Encuestas",
           "url": "https://coinlist.me/es/noticias/categoria/encuestas-e-informes/feed/"
         },
         {
-          "name": "Todas las noticias",
+          "name": "Tecnología",
           "url": "https://coinlist.me/es/noticias/categoria/tecnologia/feed/"
         },
         {
-          "name": "Todas las noticias",
+          "name": "Bitcoin",
           "url": "https://coinlist.me/es/noticias/tag/bitcoin/feed/"
         },
         {
-          "name": "Todas las noticias",
+          "name": "Blockchain",
           "url": "https://coinlist.me/es/noticias/tag/blockchain/feed/"
         },
         {
-          "name": "Todas las noticias",
+          "name": "Altcoins",
           "url": "https://coinlist.me/es/noticias/tag/altcoins/feed/"
         },
         {
-          "name": "Todas las noticias",
+          "name": "Etherium",
           "url": "https://coinlist.me/es/noticias/tag/ethereum/feed/"
         },
         {
-          "name": "Todas las noticias",
+          "name": "EEUU",
           "url": "https://coinlist.me/es/noticias/tag/ee-uu/feed/"
         },
         {
-          "name": "Todas las noticias",
+          "name": "Ripple",
           "url": "https://coinlist.me/es/noticias/tag/ripple/feed/"
         },
         {
-          "name": "Todas las noticias",
+          "name": "Litecoin",
           "url": "https://coinlist.me/es/noticias/tag/litecoin/feed/"
         },
         {
-          "name": "Todas las noticias",
+          "name": "Mineria",
           "url": "https://coinlist.me/es/noticias/tag/mineria/feed/"
         }
       ]
