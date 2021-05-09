@@ -156,7 +156,7 @@
           "url": "https://futbol.as.com/rss/futbol/primera.xml
         },
         {
-          "name": "FUTBOL: Liga 1|2|3",
+          "name": "FUTBOL: Liga 1 2 3",
           "url": "https://futbol.as.com/rss/futbol/segunda.xml"
         },
         {
@@ -183,7 +183,6 @@
           "name": "FUTBOL: Selección",
           "url": "https://as.com/rss/futbol/seleccion.xml"
         }
-
       ]
     }
   ]
