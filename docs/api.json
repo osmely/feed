@@ -150,7 +150,40 @@
         {
           "name": "Todas las noticias",
           "url": "https://as.com/rss/tags/ultimas_noticias.xml"
+        },
+        {
+          "name": "FUTBOL: Liga Santander",
+          "url": "https://futbol.as.com/rss/futbol/primera.xml
+        },
+        {
+          "name": "FUTBOL: Liga 1|2|3",
+          "url": "https://futbol.as.com/rss/futbol/segunda.xml"
+        },
+        {
+          "name": "FUTBOL: Copa del Rey",
+          "url": "https://as.com/rss/futbol/copa_del_rey.xml"
+        },
+        {
+          "name": "FUTBOL: Champions",
+          "url": "https://as.com/rss/futbol/champions.xml"
+        },
+        {
+          "name": "FUTBOL: UEFA",
+          "url": "https://as.com/rss/futbol/uefa.xml"
+        },
+        {
+          "name": "FUTBOL: Segunda Division",
+          "url": "https://as.com/tag/rss/segunda_division_b/a"
+        },
+        {
+          "name": "FUTBOL: Mundial",
+          "url": "https://as.com/rss/futbol/mundial.xml"
+        },
+        {
+          "name": "FUTBOL: Selección",
+          "url": "https://as.com/rss/futbol/seleccion.xml"
         }
+
       ]
     }
   ]
