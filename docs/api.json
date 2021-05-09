@@ -19,45 +19,42 @@
         },
         {
           "name": "El Caimán Barbudo",
-          "url":"http://www.caimanbarbudo.cu/feed/"
+          "url": "http://www.caimanbarbudo.cu/feed/"
         },
         {
           "name": "Alma Mater",
-          "url":"http://www.almamater.cu/rss.xml"
+          "url": "http://www.almamater.cu/rss.xml"
         },
         {
-          "name":"Periódico Trabajadores",
-          "url":"http://www.trabajadores.cu/feed/"
+          "name": "Periódico Trabajadores",
+          "url": "http://www.trabajadores.cu/feed/"
         },
         {
-          "name":"Sitio Cubahora",
-          "url":"https://www.cubahora.cu/feed"
+          "name": "Sitio Cubahora",
+          "url": "https://www.cubahora.cu/feed"
         },
         {
-          "name":"La Jiribilla",
-          "url":"http://lajiribilla.cu/rss"
+          "name": "La Jiribilla",
+          "url": "http://lajiribilla.cu/rss"
         },
         {
-          "name":"Periódico Guerrillero",
-          "url":"http://www.guerrillero.cu/feed/"
+          "name": "Periódico Guerrillero",
+          "url": "http://www.guerrillero.cu/feed/"
         },
         {
-          "name":"Periódico Invasor",
-          "url":"http://www.invasor.cu/es/component/obrss/invasor-rss"
+          "name": "Periódico Invasor",
+          "url": "http://www.invasor.cu/es/component/obrss/invasor-rss"
         },
         {
-          "name":"Periódico ¡ahora!",
-          "url":"http://www.ahora.cu/es/holguin/?format=feed&type=rss"
+          "name": "Periódico ¡ahora!",
+          "url": "http://www.ahora.cu/es/holguin/?format=feed&type=rss"
         },
         {
-          "name":"Periódico Venceremos",
-          "url":"http://www.venceremos.cu/guantanamo-noticias?format=feed&type=rss"
+          "name": "Periódico Venceremos",
+          "url": "http://www.venceremos.cu/guantanamo-noticias?format=feed&type=rss"
         }
       ]
     },
-
-
-
     {
       "name": "CRIPTOMONEDAS COINLIST",
       "description": "Al día con las noticias desde https://coinlist.me/",
@@ -66,10 +63,88 @@
         {
           "name": "Todas las noticias",
           "url": "https://coinlist.me/es/noticias/feed/"
+        },
+        {
+          "name": "Todas las noticias",
+          "url": "https://coinlist.me/es/noticias/categoria/analisis/feed/"
+        },
+        {
+          "name": "Todas las noticias",
+          "url": "https://coinlist.me/es/noticias/categoria/negocios/feed/"
+        },
+        {
+          "name": "Todas las noticias",
+          "url": "https://coinlist.me/es/noticias/crimen/feed/"
+        },
+        {
+          "name": "Todas las noticias",
+          "url": "https://coinlist.me/es/noticias/categoria/eventos/feed/"
+        },
+        {
+          "name": "Todas las noticias",
+          "url": "https://coinlist.me/es/noticias/categoria/destacado/feed/"
+        },
+        {
+          "name": "Todas las noticias",
+          "url": "https://coinlist.me/es/noticias/categoria/entrevistas/feed/"
+        },
+        {
+          "name": "Todas las noticias",
+          "url": "https://coinlist.me/es/noticias/categoria/mercados/feed/"
+        },
+        {
+          "name": "Todas las noticias",
+          "url": "https://coinlist.me/es/noticias/categoria/opinion/feed/"
+        },
+        {
+          "name": "Todas las noticias",
+          "url": "https://coinlist.me/es/noticias/categoria/politica-y-regulacion/feed/"
+        },
+        {
+          "name": "Todas las noticias",
+          "url": "https://coinlist.me/es/noticias/categoria/comunicado-de-prensa/feed/"
+        },
+        {
+          "name": "Todas las noticias",
+          "url": "https://coinlist.me/es/noticias/categoria/encuestas-e-informes/feed/"
+        },
+        {
+          "name": "Todas las noticias",
+          "url": "https://coinlist.me/es/noticias/categoria/tecnologia/feed/"
+        },
+        {
+          "name": "Todas las noticias",
+          "url": "https://coinlist.me/es/noticias/tag/bitcoin/feed/"
+        },
+        {
+          "name": "Todas las noticias",
+          "url": "https://coinlist.me/es/noticias/tag/blockchain/feed/"
+        },
+        {
+          "name": "Todas las noticias",
+          "url": "https://coinlist.me/es/noticias/tag/altcoins/feed/"
+        },
+        {
+          "name": "Todas las noticias",
+          "url": "https://coinlist.me/es/noticias/tag/ethereum/feed/"
+        },
+        {
+          "name": "Todas las noticias",
+          "url": "https://coinlist.me/es/noticias/tag/ee-uu/feed/"
+        },
+        {
+          "name": "Todas las noticias",
+          "url": "https://coinlist.me/es/noticias/tag/ripple/feed/"
+        },
+        {
+          "name": "Todas las noticias",
+          "url": "https://coinlist.me/es/noticias/tag/litecoin/feed/"
+        },
+        {
+          "name": "Todas las noticias",
+          "url": "https://coinlist.me/es/noticias/tag/mineria/feed/"
         }
       ]
     }
-    
-    
   ]
 }
