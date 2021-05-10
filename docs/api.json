@@ -184,6 +184,19 @@
           "url": "https://as.com/rss/futbol/seleccion.xml"
         }
       ]
+    },
+    {
+      "name": "EL PAIS",
+      "description": "",
+      "image": "https://osmely.github.io/feed/images/diario-as-squarelogo.png",
+      "channels": [
+        {
+          "name": "Portada",
+          "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada"
+        }
+      ]
     }
   ]
 }
+
+
