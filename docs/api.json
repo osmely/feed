@@ -188,7 +188,7 @@
     {
       "name": "EL PAIS",
       "description": "",
-      "image": "https://osmely.github.io/feed/images/diario-as-squarelogo.png",
+      "image": "https://as00.epimg.net/iconos/v1.x/v1.0/logos/cabecera_portada.png",
       "channels": [
         {
           "name": "Portada",
