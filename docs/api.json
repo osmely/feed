@@ -188,7 +188,7 @@
     {
       "name": "EL PAÍS",
       "description": "",
-      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stickpng.com%2Fes%2Fimg%2Ficonos-logotipos-emojis%2Flogos-de-periodicos-espanoles%2Fel-pais-newspaper-logotipo&psig=AOvVaw2K15ob4g2d3YdHwE9eg1ml&ust=1620694403739000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIiem6XzvfACFQAAAAAdAAAAABAI",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/El_Pais_logo_2007.svg/245px-El_Pais_logo_2007.svg.png",
       "channels": [
         {
           "name": "Portada",
@@ -240,7 +240,7 @@
     {
       "name": "Rusia Today",
       "description": "RT en Español es el primer canal de televisión ruso en idioma castellano con señal de alcance mundial.",
-      "image": "https://actualidad.rt.com/static/img/rss/logo-rss.png",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/240px-Russia-today-logo.svg.png",
       "channels": [
         {
           "name": "Actualidad RT",
