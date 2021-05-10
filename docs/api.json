@@ -186,13 +186,21 @@
       ]
     },
     {
-      "name": "EL PAIS",
+      "name": "EL PAÍS",
       "description": "",
       "image": "https://as00.epimg.net/iconos/v1.x/v1.0/logos/cabecera_portada.png",
       "channels": [
         {
           "name": "Portada",
           "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada"
+        },
+        {
+          "name": "Últimas noticias",
+          "url": "http://ep00.epimg.net/rss/tags/ultimas_noticias.xml"
+        },
+        {
+          "name": "Noticias más vistas",
+          "url": "http://ep00.epimg.net/rss/tags/noticias_mas_vistas.xml"
         }
       ]
     }
