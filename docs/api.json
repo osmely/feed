@@ -234,11 +234,24 @@
           "name": "Entrevistas",
           "url": "http://ep00.epimg.net/rss/elpais/entrevistasdigitales.xml"
         }
+      ]
+    },
 
-
+    {
+      "name": "Rusia Today",
+      "description": "RT en Español es el primer canal de televisión ruso en idioma castellano con señal de alcance mundial.",
+      "image": "https://actualidad.rt.com/static/img/rss/logo-rss.png",
+      "channels": [
+        {
+          "name": "Actualidad RT",
+          "url": "https://actualidad.rt.com/feeds/all.rss"
+        },
+        {
+          "name": "Videos RT",
+          "url": "https://actualidad.rt.com/feeds/video.rss"
+        }
       ]
     }
+
   ]
 }
-
-
