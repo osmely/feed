@@ -201,7 +201,41 @@
         {
           "name": "Noticias más vistas",
           "url": "http://ep00.epimg.net/rss/tags/noticias_mas_vistas.xml"
+        },
+        {
+          "name": "Tecnología",
+          "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/tecnologia/portada"
+        },
+        {
+          "name": "Ciencia",
+          "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/ciencia/portada"
+        },
+        {
+          "name": "Economía",
+          "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/economia/portada"
+        },
+        {
+          "name": "Cultura",
+          "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/cultura/portada"
+        },
+        {
+          "name": "Deporte",
+          "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/deportes/portada"
+        },
+        {
+          "name": "Sociedad",
+          "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/sociedad/portada"
+        },
+        {
+          "name": "Blogs",
+          "url": "http://www.elpais.com/rss/feed.html?feedId=17187"
+        },
+        {
+          "name": "Entrevistas",
+          "url": "http://ep00.epimg.net/rss/elpais/entrevistasdigitales.xml"
         }
+
+
       ]
     }
   ]
