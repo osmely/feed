@@ -251,7 +251,51 @@
           "url": "https://actualidad.rt.com/feeds/video.rss"
         }
       ]
+    },
+
+    {
+      "name": "TeleSur",
+      "description": "La señal informativa de América Latina",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/150px-TeleSUR-Logo.svg.png",
+      "channels": [
+        {
+          "name": "Portada",
+          "url": "http://www.telesurtv.net/rss/RssPortada.html"
+        },
+        {
+          "name": "Latinoamérica",
+          "url": "http://www.telesurtv.net/rss/RssLatinoamerica.html"
+        },
+        {
+          "name": "Mundo",
+          "url": "http://www.telesurtv.net/rss/RssMundo.html"
+        },
+        {
+          "name": "Deporte",
+          "url": "http://www.telesurtv.net/rss/RssDeporte.html"
+        },
+        {
+          "name": "Cultura",
+          "url": "http://www.telesurtv.net/rss/RssCultura.html"
+        },
+        {
+          "name": "Opinión",
+          "url": "http://www.telesurtv.net/rss/RssOpinion.xml"
+        },
+        {
+          "name": "Blog",
+          "url": "http://www.telesurtv.net/rss/RssBlogs.xml"
+        }
+      ]
     }
 
   ]
 }
+
+
+
+
+
+
+
+
