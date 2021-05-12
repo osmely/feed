@@ -1,4 +1,8 @@
 {
+  "version":{
+     "versionName":"0.2.1",
+     "mandatory":false
+  },
   "categories": [
     {
       "name": "PRENSA CUBANA",
