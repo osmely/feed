@@ -1,7 +1,7 @@
 {
   "version":{
-     "versionName":"0.2.2",
-     "mandatory":false
+     "versionName":"0.2.3",
+     "mandatory":true
   },
   "categories": [
     {
