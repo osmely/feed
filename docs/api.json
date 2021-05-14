@@ -1,7 +1,7 @@
 {
-  "version":{
-     "versionName":"0.2.4",
-     "mandatory":true
+  "version": {
+    "versionName": "0.2.4",
+    "mandatory": true
   },
   "categories": [
     {
@@ -147,7 +147,7 @@
       ]
     },
     {
-      "name": "DEPORTES AS ESPAÑA",
+      "name": "DEPORTES AS.COM",
       "description": "Noticias Diario \"as\"",
       "image": "https://osmely.github.io/feed/images/diario-as-squarelogo.png",
       "channels": [
@@ -186,6 +186,118 @@
         {
           "name": "FUTBOL: Selección",
           "url": "https://as.com/rss/futbol/seleccion.xml"
+        },
+        {
+          "name": "FORMULA 1",
+          "url": "https://as.com/rss/motor/formula_1.xml"
+        },
+        {
+          "name": "MOTOCICLISMO",
+          "url": "https://as.com/rss/motor/motociclismo.xml"
+        },
+        {
+          "name": "MAS MOTOR",
+          "url": "https://as.com/rss/motor/mas_motor.xml"
+        },
+        {
+          "name": "BALONCESTO: ACB",
+          "url": "https://as.com/rss/baloncesto/acb.xml"
+        },
+        {
+          "name": "BALONCESTO: COPA DEL REY",
+          "url": "https://as.com/rss/baloncesto/copa_del_rey.xml"
+        },
+        {
+          "name": "BALONCESTO: NBS",
+          "url": "https://as.com/rss/baloncesto/nba.xml"
+        },
+        {
+          "name": "BALONCESTO: AUROLIGA",
+          "url": "https://as.com/rss/baloncesto/euroliga.xml"
+        },
+        {
+          "name": "BALONCESTO: EUROCOPA",
+          "url": "https://as.com/rss/baloncesto/eurocup.xml"
+        },
+        {
+          "name": "BALONCESTO +",
+          "url": "https://as.com/rss/baloncesto/mas_baloncesto.xml"
+        },
+        {
+          "name": "TENIS: OPEN AUSTRALIA",
+          "url": "https://as.com/rss/tenis/open_australia.xml"
+        },
+        {
+          "name": "TENIS: ROLAND GARROS",
+          "url": "https://as.com/rss/tenis/roland_garros.xml"
+        },
+        {
+          "name": "TENIS: WIMBLEDON",
+          "url": "https://as.com/rss/tenis/wimbledon.xml"
+        },
+        {
+          "name": "TENIS: US OPEN",
+          "url": "https://as.com/rss/tenis/us_open.xml"
+        },
+        {
+          "name": "TENIS: COPA DAVIS",
+          "url": "https://as.com/rss/tenis/copa_davis.xml"
+        },
+        {
+          "name": "TENIS: MASTERS",
+          "url": "https://tenis.as.com/rss/tenis/masters_1000.xml"
+        },
+        {
+          "name": "TENIS: TOUR FRANCIA",
+          "url": "https://as.com/rss/ciclismo/tour_francia.xml"
+        },
+        {
+          "name": "TENIS: VUELTA ESPAÑA",
+          "url": "https://as.com/rss/ciclismo/vuelta_espana.xml"
+        },
+        {
+          "name": "TENIS: GIRO ITALIA",
+          "url": "https://as.com/rss/ciclismo/giro_italia.xml"
+        },
+        {
+          "name": "CICLISMO +",
+          "url": "https://as.com/rss/ciclismo/mas_ciclismo.xml"
+        },
+        {
+          "name": "ATLETISMO",
+          "url": "https://as.com/rss/masdeporte/atletismo.xml"
+        },
+        {
+          "name": "BALONMANO",
+          "url": "https://as.com/rss/masdeporte/balonmano.xml"
+        },
+        {
+          "name": "GOLF",
+          "url": "https://as.com/rss/masdeporte/golf.xml"
+        },
+        {
+          "name": "JUEGOS OLIMPICOS",
+          "url": "https://as.com/rss/masdeporte/juegosolimpicos.xml"
+        },
+        {
+          "name": "POLIDEPORTIVO",
+          "url": "https://as.com/rss/masdeporte/polideportivo.xml"
+        },
+        {
+          "name": "DEPORTE + NFL",
+          "url": "https://as.com/rss/masdeporte/nfl.xml"
+        },
+        {
+          "name": "DEPORTE + MLB",
+          "url": "https://as.com/rss/masdeporte/mlb.xml"
+        },
+        {
+          "name": "FUTBOL SALA",
+          "url": "https://as.com/tag/rss/futbol_sala/a/"
+        },
+        {
+          "name": "BOXEO",
+          "url": "https://as.com/tag/rss/boxeo/a/"
         }
       ]
     },
@@ -240,7 +352,6 @@
         }
       ]
     },
-
     {
       "name": "Rusia Today",
       "description": "RT en Español es el primer canal de televisión ruso en idioma castellano con señal de alcance mundial.",
@@ -256,7 +367,6 @@
         }
       ]
     },
-
     {
       "name": "TeleSur",
       "description": "La señal informativa de América Latina",
@@ -292,14 +402,5 @@
         }
       ]
     }
-
   ]
 }
-
-
-
-
-
-
-
-
