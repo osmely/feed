@@ -498,6 +498,17 @@
       ]
     },
     {
+      "name": "The New York Times en Español",
+      "description": "",
+      "image": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png",
+      "channels": [
+        {
+          "name": "The New York Times en Español",
+          "url": "https://rss.nytimes.com/services/xml/rss/nyt/es.xml"
+        }
+      ]
+    },
+    {
       "name": "TeleSur",
       "description": "La señal informativa de América Latina",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/150px-TeleSUR-Logo.svg.png",
