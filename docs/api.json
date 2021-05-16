@@ -214,6 +214,69 @@
       ]
     },
     {
+      "name": "QBADEPORTES.COM",
+      "description": "",
+      "image": "https://qbadeportes.com/store/2021/01/logo2@72x-8.png",
+      "channels": [
+        {
+          "name": "Portada",
+          "url": "https://qbadeportes.com/feed/"
+        },
+        {
+          "name": "LIGA JAPON",
+          "url": "https://qbadeportes.com/beisbol/liga-de-japon/"
+        },
+        {
+          "name": "BOXEO",
+          "url": "https://qbadeportes.com/deportes-de-combate/boxeo/feed/"
+        },
+        {
+          "name": "CUBANOS EN MLB",
+          "url": "https://qbadeportes.com/beisbol/cubanos-en-mlb/feed/"
+        },
+        {
+          "name": "OTRAS LIGAS",
+          "url": "https://qbadeportes.com/beisbol/cubanos-en-europa-korea-america-latina/feed/"
+        },
+        {
+          "name": "SNB",
+          "url": "https://qbadeportes.com/beisbol/serie-nacional-de-beisbol/feed/"
+        },
+        {
+          "name": "UFC",
+          "url": "https://qbadeportes.com/deportes-de-combate/ufc/feed/"
+        },
+        {
+          "name": "BALONCESTO",
+          "url": "https://qbadeportes.com/otros-deportes/baloncesto/feed/"
+        },
+        {
+          "name": "FUTBOL",
+          "url": "https://qbadeportes.com/otros-deportes/futbol/feed/"
+        },
+        {
+          "name": "VOLEIBOL",
+          "url": "https://qbadeportes.com/voleibol/feed/"
+        },
+        {
+          "name": "LUCHA",
+          "url": "https://qbadeportes.com/deportes-de-combate/lucha/feed/"
+        },
+        {
+          "name": "DEPORTES DE MOTOR",
+          "url": "https://qbadeportes.com/deportes-de-motor/feed/"
+        },
+        {
+          "name": "ATLETISMO",
+          "url": "https://qbadeportes.com/otros-deportes/atletismo/feed/"
+        },
+        {
+          "name": "AJEDREZ",
+          "url": "https://qbadeportes.com/otros-deportes/ajedrez/feed/"
+        }
+      ]
+    },
+    {
       "name": "DEPORTES AS.COM",
       "description": "Noticias Diario \"as\"",
       "image": "https://osmely.github.io/feed/images/diario-as-squarelogo.png",
