@@ -151,6 +151,69 @@
       ]
     },
     {
+      "name": "CRIPTOTELEGRAPH",
+      "description": "",
+      "image": "https://es.cointelegraph.com/assets/img/CT_Logo_YG_tag.png",
+      "channels": [
+        {
+          "name": "Portada",
+          "url": "https://es.cointelegraph.com/rss"
+        },
+        {
+          "name": "",
+          "url": "https://es.cointelegraph.com/rss/tag/altcoin"
+        },
+        {
+          "name": "",
+          "url": "https://es.cointelegraph.com/rss/tag/bitcoin"
+        },
+        {
+          "name": "",
+          "url": "https://es.cointelegraph.com/rss/tag/blockchain"
+        },
+        {
+          "name": "",
+          "url": "https://es.cointelegraph.com/rss/tag/ethereum"
+        },
+        {
+          "name": "",
+          "url": "https://es.cointelegraph.com/rss/tag/litecoin"
+        },
+        {
+          "name": "",
+          "url": "https://es.cointelegraph.com/rss/tag/monero"
+        },
+        {
+          "name": "",
+          "url": "https://es.cointelegraph.com/rss/tag/regulation"
+        },
+        {
+          "name": "",
+          "url": "https://es.cointelegraph.com/rss/category/analysis"
+        },
+        {
+          "name": "",
+          "url": "https://es.cointelegraph.com/rss/category/in-depth"
+        },
+        {
+          "name": "",
+          "url": "https://es.cointelegraph.com/rss/category/follow-up"
+        },
+        {
+          "name": "",
+          "url": "https://es.cointelegraph.com/rss/category/top-10-cryptocurrencies"
+        },
+        {
+          "name": "",
+          "url": "https://es.cointelegraph.com/rss/category/market-analysis"
+        },
+        {
+          "name": "",
+          "url": "https://es.cointelegraph.com/rss/category/weekly-overview"
+        }
+      ]
+    },
+    {
       "name": "DEPORTES AS.COM",
       "description": "Noticias Diario \"as\"",
       "image": "https://osmely.github.io/feed/images/diario-as-squarelogo.png",
