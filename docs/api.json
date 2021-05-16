@@ -60,12 +60,16 @@
       ]
     },
     {
-      "name": "CRIPTOMONEDAS COINLIST",
+      "name": "CRIPTOMONEDAS",
       "description": "Al día con las noticias desde https://coinlist.me/",
       "image": "https://osmely.github.io/feed/images/cripto.png",
       "channels": [
         {
-          "name": "Todas las noticias",
+          "name": "Criptonoticias",
+          "url": "https://www.criptonoticias.com/feed/"
+        },
+        {
+          "name": "coinlist.me: Todas las noticias",
           "url": "https://coinlist.me/es/noticias/feed/"
         },
         {
