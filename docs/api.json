@@ -542,6 +542,17 @@
           "url": "https://rss.nytimes.com/services/xml/rss/nyt/es.xml"
         }
       ]
+    },
+    {
+      "name": "SALUD",
+      "description": "",
+      "image": "https://www.tucanaldesalud.es/es/banners/100265-TUCANALSALUD_solo_v2.png",
+      "channels": [
+        {
+          "name": "Tu Canal de Salud: Portada",
+          "url": "https://www.tucanaldesalud.es/idcsalud-client/cm/tucanaldesalud/rss?locale=es_ES&rssContent=70028"
+        }
+      ]
     }
   ]
 }
