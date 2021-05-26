@@ -559,6 +559,22 @@
         {
           "name": "Tu Canal de Salud: Tecnología",
           "url": "https://www.tucanaldesalud.es/idcsalud-client/cm/tucanaldesalud/rss?locale=es_ES&rssContent=70038"
+        },
+        {
+          "name":"Especialistas",
+          "url":"https://www.tucanaldesalud.es/idcsalud-client/cm/tucanaldesalud/rss?locale=es_ES&rssContent=70039"
+        },
+        {
+          "name":"Te interesa",
+          "url":"https://www.tucanaldesalud.es/idcsalud-client/cm/tucanaldesalud/rss?locale=es_ES&rssContent=70045"
+        },
+        {
+          "name":"Videos",
+          "url":"https://www.tucanaldesalud.es/idcsalud-client/cm/tucanaldesalud/rss?locale=es_ES&rssContent=70040"
+        },
+        {
+          "name":"Actualidad",
+          "url":"https://www.tucanaldesalud.es/idcsalud-client/cm/tucanaldesalud/rss/syndicate-ar?locale=es_ES&rssContent=192004"
         }
       ]
     }
