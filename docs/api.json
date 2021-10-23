@@ -577,6 +577,17 @@
           "url":"https://www.tucanaldesalud.es/idcsalud-client/cm/tucanaldesalud/rss/syndicate-ar?locale=es_ES&rssContent=192004"
         }
       ]
-    }
+    },
+    {
+      "name": "ET",
+      "description": "",
+      "image": "https://www.eltiempo.com/bundles/eltiempocms/images/et-rss.png",
+      "channels": [
+        {
+          "name": "Mundo",
+          "url": "https://www.eltiempo.com/rss/mundo.xml"
+        }
+      ]
+    },
   ]
 }
