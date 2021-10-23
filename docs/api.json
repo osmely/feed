@@ -586,7 +586,35 @@
         {
           "name": "Mundo",
           "url": "https://www.eltiempo.com/rss/mundo.xml"
-        }
+        },
+        {
+          "name": "Latinoamérica",
+          "url": "https://www.eltiempo.com/rss/mundo_latinoamerica.xml"
+        },
+        {
+          "name": "EEUU y Canadá",
+          "url": "https://www.eltiempo.com/rss/mundo_eeuu-y-canada.xml"
+        },
+        {
+          "name": "Europa",
+          "url": "https://www.eltiempo.com/rss/mundo_europa.xml"
+        },
+        {
+          "name": "Medio Oriente",
+          "url": "https://www.eltiempo.com/rss/mundo_medio-oriente.xml"
+        },
+        {
+          "name": "Asia",
+          "url": "https://www.eltiempo.com/rss/mundo_asia.xml"
+        },
+        {
+          "name": "África",
+          "url": "https://www.eltiempo.com/rss/mundo_africa.xml"
+        },
+        {
+          "name": "Otras regiones",
+          "url": "https://www.eltiempo.com/rss/mundo_mas-regiones.xml"
+        }        
       ]
     }
   ]
